@@ -1,11 +1,16 @@
-# UNL005-proyectosapphibridas
-Aqui coloco una descripción básica del proyecto
-# Nombre del Proyecto
+# UNL005-6app
+Proyecto App para reciclaje en localidad Engativá
+# 6app
 ## Integrantes
--Ruth Beltrán
+-Yonathan Posada
+-Felipe Silvestre
+-Harolt Gómez
+-Luis Tocasuche
+-Santiago Vargas
+-Javier Mendoza
 
 #Descripción del proyecto:
-Aquí coloco una descripción clara del proyecto
+Proyecto dentro del marco de Generación de Capacidades en el Ecosistema Digital en Bogotá
 
 #Funciones básicas:
 -El usuario debe generar un login

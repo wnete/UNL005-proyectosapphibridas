@@ -1,11 +1,15 @@
-# UNL005-proyectosapphibridas
+# UNL005-6app
 Aqui coloco una descripción básica del proyecto
-# Nombre del Proyecto
+# 6app
 ## Integrantes
--Ruth Beltrán
-
+-Yonathan Posada
+-Felipe Silvestre
+-Harolt Gómez
+-Luis Tocasuche
+-Santiago Vargas
+-Javier Mendoza
 #Descripción del proyecto:
-Aquí coloco una descripción clara del proyecto
+Proyecto dentro del programa de Generación de Capacidades en el Ecosistema Digital en Bogota
 
 #Funciones básicas:
 -El usuario debe generar un login
